@@ -34,6 +34,8 @@ Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/b
 * [CreativeLive](http://www.creativelive.com/) Free Live Online Classes — Learn. Be Inspired.
 * [edX](http://www.edx.org/) Free online courses from the world’s best universities
 * [HP Life](http://www.life-global.org/en/LEARN-ONLINE/HP-Life-e-Learning) Learning initiative for entrepreneurs
+* [Udemy](https://www.udemy.com/) Online Courses Anytime, Anywhere.
+* [Stanford Online Courses](http://online.stanford.edu/courses) Online Courses by Stanford University.
 
 <br />
 
@@ -92,6 +94,7 @@ Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/b
 * [Mandrill](http://mandrillapp.com/) a new way for apps to send transactional email.
 * [Mailgun](http://www.mailgun.com/) The email service for developers
 * [SendGrid](http://sendgrid.com/) Email Delivery & Transactional Email Service
+* [MailerLite](https://www.mailerlite.com/) Send Beautiful Emails
 
 <br />
 
@@ -123,6 +126,7 @@ Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/b
 * Free Icons List [Link 1](http://www.smashingmagazine.com/2015/07/03/freebie-smashicons-icon-set/)
 * Free Icons List [Link 2](http://digitalsynopsis.com/tools/free-flat-design-icons/) 
 * Free Icons List [Link 3](http://www.hongkiat.com/blog/free-icon-sets-to-bookmark/)
+* [Icon Finder](http://www.iconfinder.com/) Search through 640,748 icons or browse 11,696 icon sets.
 
 <br />
 
@@ -222,6 +226,7 @@ Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/b
 * [StartupLi.st](http://startupli.st/) Find. Follow. Recommend startups.
 * [TechCrunch](http://techcrunch.com/) The latest technology news and information on startups.
 * [Startup Launch](http://techcrunch.com/) List Articles you need to read before launching startup
+* [TheNextWeb](http://www.thenextweb.com/) Technology based media.
 
 <br />
 
@@ -296,6 +301,7 @@ Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/b
 * [WordPress Themes on Template Stash
 ](http://www.templatestash.com/c/wordpress-templates)
 * [Themeisle](http://themeisle.com/downloads/category/free/) Free WordPress Themes
+* [HamyarWP](http://hamyarwp.com/) Persian Wordpress themes by HamyarWP
 
 <br />
 
@@ -342,6 +348,7 @@ Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/b
 * [Ionic creator](https://creator.ionic.io/) Creator makes it easy to rapidly build Ionic mobile apps
 * [Framework7](http://www.idangero.us/framework7/) framework for hybrid mobile application UI and development
 * [Genymotion](https://www.genymotion.com/) Tool for test application
+* [AppStarter](https://appstarter.io) Build native iOS prototypes online
 
 <br />
 
